@@ -2,35 +2,35 @@
 
 I'm a Computer Science Engineering student passionate about Data Analytics, Business Intelligence, and AR/VR Development. I enjoy transforming raw data into actionable insights and exploring immersive technologies that create meaningful user experiences.
 
-# Tools & Technologies
+### Tools & Technologies
 
-Programming Languages
-Python
-SQL
-Java
+### Programming Languages- 
+Python ,
+SQL ,
+Java ,
 C++
 
-Data Analytics
-Power BI
-Microsoft Excel
-Pandas
+### Data Analytics-
+Power BI ,
+Microsoft Excel ,
+Pandas ,
 NumPy
 
-Databases
-MySQL
+### Databases-
+MySQL ,
 PostgreSQL
 
-Development & Design
-Git & GitHub
-VS Code
+### Development & Design
+Git & GitHub ,
+VS Code ,
 Figma
 
-AR/VR
-Unity
-XR Development
+### AR/VR-
+Unity ,
+XR Development ,
 AR Foundation
 
 🔭 Currently Working On
-CubeSat Temperature & PSI monitoring heights
+CubeSat Temperature & PSI monitoring on different heights
 
 🤝 Let's Connect
