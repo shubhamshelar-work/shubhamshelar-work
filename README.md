@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**shubhamshelar-work/shubhamshelar-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science Engineering student passionate about Data Analytics, Business Intelligence, and AR/VR Development. I enjoy transforming raw data into actionable insights and exploring immersive technologies that create meaningful user experiences.
 
-Here are some ideas to get you started:
+# Tools & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Languages
+Python
+SQL
+Java
+C++
+
+Data Analytics
+Power BI
+Microsoft Excel
+Pandas
+NumPy
+
+Databases
+MySQL
+PostgreSQL
+
+Development & Design
+Git & GitHub
+VS Code
+Figma
+
+AR/VR
+Unity
+XR Development
+AR Foundation
+
+🔭 Currently Working On
+CubeSat Temperature & PSI monitoring heights
+
+🤝 Let's Connect
